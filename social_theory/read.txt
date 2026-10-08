@@ -1,0 +1,15 @@
+# Install virtual enviroment
+python3 -m venv social
+source path_virtual_enviroment
+
+# Dependencies
+pip install openML
+pip install -U scikit-learn
+pip install category_encoders
+
+
+
+
+# Documentation OpenPML
+https://openml.github.io/openml-python/latest/
+https://openml.github.io/openml-python/latest/reference/tasks/task/
