@@ -1,0 +1,8 @@
+# Install virtual enviroment
+
+
+
+
+# Documentation OpenPML
+https://openml.github.io/openml-python/latest/
+https://openml.github.io/openml-python/latest/reference/tasks/task/
